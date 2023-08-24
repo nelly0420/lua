@@ -1,0 +1,66 @@
+[
+	{
+		"background" : "ui/mossylake.png",
+		"speaker" : "",
+		"content" : "그렇지만 지금은? \n 아라는 주변을 둘러본다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : "effect/Hallow Wind.mp3"
+	},
+	{
+		"background" : "ui/mossylake.png",
+		"speaker" : "",
+		"content" : "보이는 것은 박살난 관람차와 뭐라고 우는지 \n 전혀 모르겠는 개구리 한 마리 뿐이었다. ",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : "effect/frog.mp3"
+	},
+	{
+		"background" : "ui/mossylake.png",
+		"speaker" : "",
+		"content" : "모든 것이 낡고 생기 없었다. ",
+		"profile" : "ui/alpha.png",
+		"image" : "ui/dialog.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/mossylake.png",
+		"speaker" : "",
+		"content" : "바다는 어떤 곳일까",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/mossylake.png",
+		"speaker" : "",
+		"content" : "실제로 본 적은 없지만, 기본 상식칩에서 찾은 바다의 이미지는… \n …넓었다. ",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},{
+		"background" : "ui/mossylake.png",
+		"speaker" : "",
+		"content" : "이 좁은 호수와는 비교도 되지 않게 넓었고,\n 청량한 소리가 났고, 색도 다양했다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : "effect/wave.mp3"
+	},
+	{
+		"background" : "ui/mossylake.png",
+		"speaker" : "",
+		"content" : "파란색, 옅은 하늘색, 에메랄드빛으로 빛나는 윤슬은 보석처럼 빛났고,\n 심지어는 너무 투명하고 맑아서 그 밑의 모래가 전부 보이는 바다도 있었다.  ",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/mossylake.png",
+		"speaker" : "아라",
+		"content" : "그래, 다른 친구들처럼 이 호수에서 가동을 멈출 바에 한 번이라도 바다에 가보자.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/Ara.png",
+		"eff" : ""
+	}
+
+]

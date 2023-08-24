@@ -1,0 +1,122 @@
+[
+	{
+		"background" : "ui/mossylake2.png",
+		"speaker" : "아라",
+		"content" : "아…또 터졌네.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/Ara.png",
+		"eff" : "effect/boom.mp3"
+	},
+	{
+		"background" : "ui/mossylake2.png",
+		"speaker" : "",
+		"content" : "큰 소리가 나도 아라는 당황하지 않았다. 그저 조금 짜증날 뿐이었다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/mossylake2.png",
+		"speaker" : "",
+		"content" : "유원지를 둘러싼 숲에서 지뢰가 터지는 건 전쟁이 끝난 지금도 흔한 일이었다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/mossylake2.png",
+		"speaker" : "아라",
+		"content" : "어라?",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/Ara.png",
+		"eff" : "effect/boom.mp3"
+	},
+	{
+		"background" : "ui/mossylake2.png",
+		"speaker" : "",
+		"content" : "그런데 이번에는 뭔가 달랐다.",
+		"profile" : "ui/alpha.png",
+		"image" : "ui/dialog.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/mossylake2.png",
+		"speaker" : "",
+		"content" : "찾는 이가 없어도 꿋꿋하게 서있던 대관람차가 위태롭게 흔들렸다. ",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : "effect/short_eq.mp3"
+	},
+	{
+		"background" : "ui/mossylake2.png",
+		"speaker" : "",
+		"content" : "호수에도 잔물결이 심하게 일어났다. ",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : "effect/short_splash.wav"
+	},
+	{
+		"background" : "ui/mossylake2.png",
+		"speaker" : "",
+		"content" : "진동과 충격을 버티지 못한 대관람차가 결국 외롭게 무너졌다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : "effect/destroy.wav"
+	},
+	{
+		"background" : "ui/mossylake2.png",
+		"speaker" : "아라",
+		"content" : "썩어버린 사과가 떨어지는 것처럼 유원지 곳곳에 관람차 케이블이 떨어졌다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/Ara.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/mossylake.png",
+		"speaker" : "아라",
+		"content" : "아!",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/Ara.png",
+		"eff" : "effect/player_des.wav"
+	},
+	{
+		"background" : "ui/mossylake.png",
+		"speaker" : "",
+		"content" : "운 나쁘게도, 한 관람차가 아라의 위로 떨어졌다. 살면서 처음 겪는 충격이었다. ",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/mossylake.png",
+		"speaker" : "",
+		"content" : "성격 더러운 아이들이 던진 과자 봉지나 돌멩이에 맞은 적은 있어도,\n 이런 관람차에 맞은 적은 당연히 없었다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/mossylake.png",
+		"speaker" : "",
+		"content" : "고통을 느끼진 않았지만 표피가 부서져서 드러난 망가진 전선에 \n 물이 닿으니 스파크가 일어났다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/mossylake.png",
+		"speaker" : "아라",
+		"content" : "이, 이게 뭐야….",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/Ara.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/mossylake.png",
+		"speaker" : "",
+		"content" : "아라는 당황하며 호수 위로 올라갔다. ",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	}
+]

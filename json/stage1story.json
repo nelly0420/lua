@@ -1,0 +1,847 @@
+[
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "겨우 호수를 빠져나왔다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : "effect/s4bird.mp3"
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "잠수를 오래 해서 파손 부위가 생각보다 더 많이 손상되었다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : "effect/spark1.wav"
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "아라",
+		"content" : "…나 이러다가 곧 고장나는 거 아니야?",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/Arahurt.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "잠수를 오래 했다는 말이 문득 이상하게 느껴진다.\n나는 인어인데!",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "인어가 하는 일이라고는 결국 잠수 아닌가?",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "아라",
+		"content" : "…….",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/Arahurt.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "아라는 쓸 데 없는 생각으로 메모리를 낭비하지 않기로 했다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "이 강은 유원지의 숲을 감싸며 흐른다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "아라",
+		"content" : "여기까지는 물로 된 길이 있었지만…앞으로는 어쩌지?",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/Arahurt.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "아라는 검색칩으로 주변 지형을 검색하고 탄식했다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "아라",
+		"content" : "이 강을 따라가면 바다 근처까지는 갈 수 있겠네. 딱 그 근처까지만.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/Arahurt.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "아라는 고민하며 다양한 루트를 계산하기 시작한다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "어떻게 가야 바다에 잘 도착할 수 있을까?",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "그때, 어딘가에서 인기척이 느껴졌다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : "effect/rustling.mp3"
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "아라는 낯선 로봇의 등장에 황급히 숨었다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "정확히는, 숨으려고 했다. ",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "자연스럽게 물 속으로 다시 잠수하려던 찰나에 아라는 자신의 \n몸 상태를 떠올렸다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "아라",
+		"content" : "다시 물로 들어갔다가 스파크가 터져서 완전히 누전되어버리면 어쩌지?",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/Arahurt.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "망설임은 찰나였지만 그 사이에 수상한 로봇이 아라에게 가까이 다가왔다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "수상한 로봇",
+		"content" : "…강 속 로봇 개체, 모습을 보이고 신원을 밝혀라.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "아라",
+		"content" : "아, 안녕. 나는 아라야. 넌 이름이 뭐야?",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/Arahurt.png",
+		"eff" : "effect/StreamRapids.mp3"
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "제법 고압적인 태도로 자신을 내려다보는 로봇에 아라가 말을 더듬었다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "그래도 아라는 유원지에 배치된 인어답게 사교성이 뛰어났다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "당황스러운 상황에 처한 사람처럼 적절하게 말을 더듬는 아라의 모습은 \n로봇이 아니라, 그저 강에서 수영 중인 사람이라고 보일 법도 했다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "확실히 천재 과학자가 몇 년에 걸쳐 만든 정교하고 섬세한 로봇이었다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "수상한 로봇",
+		"content" : "…….",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "수상한 로봇은 아라를 힐끔 보더니 그냥 등을 돌렸다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "인어 로봇이 무해해보인다고 판단한 그는 다시 가던 길을 가려는 것 같았다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : "effect/rustling.mp3"
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "아라는 미간을 살짝 찌푸렸다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "이건 개구리에게 무시당하는 것과 달라!",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "지능 있는 로봇에게 무시당하는 건 언짢은 일이었다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "아라",
+		"content" : "'지가 무슨 사람인 줄 알아? 같은 로봇끼리 왜 이래?'",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/Arahurt.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "아라",
+		"content" : "'이름 물어봐서 대답해줬더니 자기는 말도 없이 그냥 가버리려고 하네.'",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/Arahurt.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "그렇지만 아라는 곧 능숙하게 다시 미소지었다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "아라",
+		"content" : "저기, 지금 어디 가는 중이야?",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/Arahurt.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "수상한 로봇",
+		"content" : "…….",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "아라",
+		"content" : "…….",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/Arahurt.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "아라",
+		"content" : "…너 혹시 성대 부품에 문제 있어?",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/Arahurt.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "그제서야 수상한 로봇이 대답했다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "수상한 로봇",
+		"content" : "내 부품들은 모두 멀쩡하다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "과연 매끄러운 목소리였다. 아라는 재빨리 눈 앞의 로봇을 스캔했다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "가정용 로봇은 아닌 것 같았다.  그보다는 좀 더, 전투용에 적합해보이는…….",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "아라가 수상한 로봇을 관찰하며 말이 없자 로봇은 다시 나직한 목소리로 말했다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "그의 목소리는 조용했지만 전달력이 몹시 좋았다. \n(전쟁에서 쓸 로봇인데 발음이 안 좋아서 전달력도 안 좋으면 쓸모가 없으니까.)",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "수상한 로봇",
+		"content" : "그리고 목적지 같은 건 없다. 이제 내게 명령을 내리는 인간이 없기 때문이다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "수상한 로봇",
+		"content" : "그래서 몇 년 전부터는 늘 같은 루트를 돌며 남아 있는 잔병이 있으면 \n소탕 중이다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "전쟁이 난 건 알고 있었지만 이렇게 직접적인 단어를 들은 건 처음이었다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "아라는 어색하게 강물로 손장난을 치다가 물었다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : "effect/slowswim.mp3"
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "아라",
+		"content" : "으응…그렇구나, 루트가 어떻게 되는데?",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/Arahurt.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "그는 금방이라도 다시 떠날 것처럼 보였지만 \n아라의 질문에 인내심 있게 대답했다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "수상한 로봇",
+		"content" : "유원지를 수색했으니 이제 마을로 갈 차례다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "수상한 로봇",
+		"content" : "그곳에는 골목 곳곳에 미심쩍은 인간들이 많다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "아라의 눈이 빛났다. 그 마을은 바다 근처에 있었다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "그 마을에 도착하면 그 다음에는 작은 어촌까지 갈 수 있었다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "어촌에서는 지하 수로라든지 하수구를 이용해서 \n바다로 나갈 수 있을지도 몰랐다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "아라",
+		"content" : "그거 잘 됐다! 나도 마침 거기로 가려던 참이었거든.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/Arahurt.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "아라",
+		"content" : "나랑 같이 가자!",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/Arahurt.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "수상한 로봇",
+		"content" : "안 된다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "망설임 없는 대답이었다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "단호한 목소리와 대비되는 흔들림 없이 평온한 표정에 \n아라는 순간 숨이 턱 막혔다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "…어차피 숨은 못 쉬는 로봇이지만 말이다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "아라",
+		"content" : "왜? 이유가 뭐야?",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/Arahurt.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "수상한 로봇",
+		"content" : "바꿔 말해서, 너와 함께 해야 할 이유가 있나?",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "아라",
+		"content" : "…….",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/Arahurt.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "아니 무슨 저런 싸가지 없는 로봇이 있어?",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "아라의 인어 친구들은 모두 아라처럼 활발하고 사회성이 좋았다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "어쩌면 당연한 일이었다. 그들의 일은 사람들을 즐겁게 해주는 것이었으니까.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "오래 전에 만난 유원지의 사람들도 모두 웃는 얼굴이었다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "그래서인지, 아라는 저 수상한 로봇을 이해하기가 점점 더 어려웠다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "오랜만에 말이 통하는 상대를 만났나 싶었는데 \n말 그대로 말만 통하는 놈이었다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "말 뜻은 전혀 통하는 것 같지 않았다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "아라",
+		"content" : "나랑 다닌다고 피해될 것도 없잖아?",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/Arahurt.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "수상한 로봇",
+		"content" : "너는 다리 부품이 없다. 내가 널 안거나 끌고 다니면 나는 팔을 못 쓰고, \n그러면 결국 적의 공격에 취약해진다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "아라는 할 말을 잃었다. 저 로봇은 확실히 전투용인 것 같았다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "인어 로봇인 자신과는 사고 방식이 전혀 달랐다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "아라",
+		"content" : "아니, 뭐, 맞긴 한데…….",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/Arahurt.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "그는 아라를 잠시 더 바라보다가 이내 고개를 돌렸다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "그는 다시 숲을 향해 걸어가기 시작했다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : "effect/rustling.mp3"
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "수상한 로봇",
+		"content" : "아라는 황급히 그를 따라 강둑을 헤엄쳤다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : "effect/slowswim.mp3"
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "아라",
+		"content" : "야, 너 전투용 로봇 맞지? 사람들을 위해서 대신 싸워주는 로봇이지?",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/Arahurt.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "그는 대답 없이 고개만 끄덕였다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "아라",
+		"content" : "있잖아, 날 도와주는 건 그들을 도와주는 거랑 똑같은 거라니까?",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/Arahurt.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "과장된 감이 없잖아 있었지만 아라는 뻔뻔하게 나가기로 했다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "아라",
+		"content" : "사람들은 나를 좋아하거든. 그러니까 너가 나를 도와주면 그들은 기뻐할 거야.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/Arahurt.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "수상한 로봇",
+		"content" : "널 보러 유원지까지 갈 인간들은 이제 없다. \n그들은 전쟁 이후로 이제는 그런 곳에 가지 않는다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "아라는 물 속으로 조금 움츠러들었다. 저 녀석은 왜 자꾸 맞는 말만 하는 건지….",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "아라가 속으로 궁시렁거리는 동안 수상한 로봇, \nPW-24601은 깊은 바닥에 재워두었던 메모리가 요동치는 것을 느꼈다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "저 인어 로봇은 자신의 옛 파트너를 제법 닮은 구석이 있었다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "이해되지 않을 정도로 순진하면서도 굳건히 의지적이었다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "그는 발걸음을 멈추고 아라를 내려다보았다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "PW-24601",
+		"content" : "왜 자꾸 따라오는 것이지? 내게 원하는 게 있나?",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "아라",
+		"content" : "나는 곧 가동을 멈출 지도 몰라. 그 전에 바다에 가보고 싶어.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/Arahurt.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "아라는 무심결에 망가진 팔을 문지르며 말했다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "PW-24601",
+		"content" : "…바다?",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "그는 고개를 살짝 기울였다. 예상치 못한 대답이었다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "바다라면 수없이 봐왔다. 지긋지긋한 곳이었다. \n격한 전투에 표면이 조금이라도 일그러지면 그 사이로 스며든 바닷물은 온 부품을 녹슬게 만들었다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "그는 자기도 모르는 사이에 미간을 찌푸렸다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "PW-24601",
+		"content" : "바다에 가고 싶은 이유는?",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "아라는 그의 목소리에 묻어나오는 짜증 아래에 숨겨진 흥미를 느끼고 \n이를 놓치지 않았다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "아라",
+		"content" : "아, 그건 가면서 말해줄게.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/Arahurt.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "아라의 어조에는 능글맞은 구석이 있었다. PW-24601는 잠시 생각했다",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},
+	{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "그래, 어쩌면 저 인어의 말이 맞을지도 몰랐다. \n인어와 같이 다닌다고 반드시 엄청난 피해가 오는 것은 아니었다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "로봇 하나 지키는 일 정도는 어렵지 않았다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "목적 없는 떠돌이 생활에 사소한 목표를 세우는 것도 나쁘지 않을 것 같았다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "바다는 가까웠다. 그러나 다리 없는 인어가 가기에는 멀고 험한 길일 테지.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "조금은 도와줘도 괜찮을 것이다. \n오랜만에 목표가 설정된 전투봇이 고개를 끄덕였다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "PW-24601",
+		"content" : "…내 이름은 PW-24601이다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "아라는 자신을 도와줄 동료가 생겼다는 흥분을 감추지 못하고 꼬리로 물방울을 튕겼다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : "effect/short_splash.wav"
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "",
+		"content" : "PW-24601은 무표정하게 뺨에 묻은 물방울을 손등으로 닦았다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : ""
+	},{
+		"background" : "ui/story1.png",
+		"speaker" : "아라",
+		"content" : "만나서 반가워, PW-24601!",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/Arahurt.png",
+		"eff" : ""
+	}
+
+
+]

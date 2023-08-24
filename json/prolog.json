@@ -1,0 +1,128 @@
+[
+	{
+		"background" : "ui/amusementPark.png",
+		"speaker" : "",
+		"content" : "오랫동안 사람의 발길이 끊긴 낡은 유원지이다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : "",
+		"bgm" : "effect/prolog1.wav"
+	},
+	{
+		"background" : "ui/amusementPark.png",
+		"speaker" : "",
+		"content" : "이제는 손님이 찾아와도 할 수 있는 게 별로 없어보인다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : "",
+		"bgm" : ""
+	},
+	{
+		"background" : "ui/amusementPark.png",
+		"speaker" : "",
+		"content" : "유원지 한가운데에 우뚝 선 빛바랜 대관람차가 바람이 불 때마다 \n소름끼치는 녹슨 소리를 냈다. ",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : "",
+		"bgm" : ""
+	},
+	{
+		"background" : "ui/amusementPark.png",
+		"speaker" : "",
+		"content" : "곧 무너질 것만 같은데도 겨우겨우 버티는 모양새의 대관람차였다. ",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : "",
+		"bgm" : ""
+	},
+	{
+		"background" : "ui/amusementPark.png",
+		"speaker" : "",
+		"content" : "음산한 회전 목마와 붉은 페인트가 벗겨진 롤러코스터 역시 \n제자리에 가만히 멈춘 지 오래였다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : "",
+		"bgm" : ""
+	},
+	{
+		"background" : "ui/amusementPark.png",
+		"speaker" : "",
+		"content" : "이제 이곳에 오는 손님은 방사능에 모습이 변형된 들쥐 가족 뿐이었다. ",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : "effect/mouse_eff.mp3",
+		"bgm" : ""
+	},
+	{
+		"background" : "ui/mossylake.png",
+		"speaker" : "",
+		"content" : "호수에 홀로 남은 인어 로봇, 아라는 오늘도 심심하다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : "",
+		"bgm" : ""
+	},
+	{
+		"background" : "ui/mossylake.png",
+		"speaker" : "",
+		"content" : "아라는 방사능으로 엄청나게 커진 개구리와 대화를 시도한다.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : "",
+		"bgm" : ""
+	},
+	{
+		"background" : "ui/mossylake.png",
+		"speaker" : "아라",
+		"content" : "구리야! 오늘도 아무도 안 오는데, 나랑 가위바위보 하고 놀래?",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/Ara.png",
+		"eff" : "effect/up.wav",
+		"bgm" : ""
+	},
+	{
+		"background" : "ui/mossylake.png",
+		"speaker" : "개구리",
+		"content" : "개굴",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : "effect/frog.mp3",
+		"bgm" : ""
+	},
+	{
+		"background" : "ui/mossylake.png",
+		"speaker" : "아라",
+		"content" : "재미 없다고? 당연히 너는 재미 없겠지! 넌 보자기밖에 못 내니까.",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/Ara.png",
+		"eff" : "",
+		"bgm" : ""
+	},
+	{
+		"background" : "ui/mossylake.png",
+		"speaker" : "개구리",
+		"content" : "개굴",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : "effect/frog.mp3",
+		"bgm" : ""
+	},
+	{
+		"background" : "ui/mossylake.png",
+		"speaker" : "",
+		"content" : "물론 개구리와 대화가 통하지는 않았다….",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : "",
+		"bgm" : ""
+	},
+	{
+		"background" : "ui/mossylake.png",
+		"speaker" : "",
+		"content" : "다시 심심해진 아라는 좁은 어항에 갇힌 금붕어가 제자리를 배회하듯이 \n작은 원을 그리며 헤엄치기 시작했다",
+		"image" : "ui/dialog.png",
+		"profile" : "ui/alpha.png",
+		"eff" : "effect/shortswim.mp3",
+		"bgm" : ""
+	}
+]
